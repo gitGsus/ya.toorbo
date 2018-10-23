@@ -1,0 +1,80 @@
+<rss
+    xmlns:yandex="http://news.yandex.ru"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:turbo="http://turbo.yandex.ru"
+    version="2.0"
+>
+    <channel>
+        <item turbo="true">
+            <title>Игровые автоматы на деньги</title>
+            <link>https://gsusg.github.io</link>
+            <turbo:content>
+            <![CDATA[
+                <header>
+                    <h1>Игровые автоматы на деньги – шанс сорвать куш</h1>
+
+                    <menu>
+                        <a href="#">Автоматы 777</a>
+
+                        <a href="#">Автоматы с выводом денег</a>
+
+                        <a href="#">Казино на деньги</a>
+                    </menu>
+                </header>
+
+                <article>
+                    <h2>Онлайн казино Вулкан</h2>
+
+                    <figure>
+                        <img src="https://avtomatyi-na-dengi.com/wp-content/uploads/2018/02/dzhoykazino-1-215x149.png">
+                    </figure>
+
+                    <a href="#">Играть в клубе</a>
+                </article>
+
+                <figure>
+                    <img src="https://avtomatyi-na-dengi.com/wp-content/uploads/2018/02/dzhoykazino-1-215x149.png">
+                    <figcaption>Онлайн казино Вулкан</figcaption>
+                </figure>
+
+                <a href="#">Играть в клубе</a>
+
+                <!-- <p>Приходите к нам на завтрак. Фотографии наших блюд ищите <a href="#">на нашем сайте</a>.</p>
+
+                <h2>Меню</h2>
+
+                <figure>
+                    <img src="https://avatars.mds.yandex.net/get-sbs-sd/369181/49e3683c-ef58-4067-91f9-786222aa0e65/orig">
+                    <figcaption>Омлет с травами</figcaption>
+                </figure>
+
+                <p>В нашем меню всегда есть свежие, вкусные и полезные блюда.</p>
+
+                <p>Убедитесь в этом сами.</p> -->
+
+                <!-- <button formaction="tel:+7(123)456-78-90"
+                    data-background-color="#5B97B0"
+                    data-color="white"
+                    data-primary="true"
+                >Заказать столик</button>
+
+                <div data-block="widget-feedback" data-stick="false">
+                    <div data-block="chat" data-type="whatsapp" data-url="https://whatsapp.com"></div>
+
+                    <div data-block="chat" data-type="telegram" data-url="http://telegram.com/"></div>
+
+                    <div data-block="chat" data-type="vkontakte" data-url="https://vk.com/"></div>
+
+                    <div data-block="chat" data-type="facebook" data-url="https://facebook.com"></div>
+
+                    <div data-block="chat" data-type="viber" data-url="https://viber.com"></div>
+                </div>
+
+                <p>Наш адрес: <a href="#">Nullam dolor massa, porta a nulla in, ultricies vehicula arcu.</a></p>
+
+                <p>Фотографии — http://unsplash.com</p> -->
+            ]]>
+            </turbo:content>
+        </item>
+    </channel>
+</rss>
