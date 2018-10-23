@@ -1,0 +1,25 @@
+<rss
+    xmlns:yandex="http://news.yandex.ru"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:turbo="http://turbo.yandex.ru"
+    version="2.0"
+>
+    <channel>
+        <item turbo="true">
+           <link>http://www.example.com/page1.html</link>
+           <turbo:content>
+               <p>Turbo</p>
+           </turbo:content>
+           <yandex:related type="infinity">
+               <link
+                url="http://www.example.com/page.html"
+                img="http://www.example.com/image.png">Текст ссылки
+               </link>
+               <link
+                url="http://www.example.com/page2.html"
+                img="http://www.example.com/image2.png">Текст ссылки
+               </link>
+           </yandex:related>
+        </item>
+    </channel>
+</rss>
