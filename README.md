@@ -2,4 +2,4 @@
 
 Private web application.
 
-Please contact [g.sus]() for any questions.
+Please contact [g.sus](https://gsusg.github.io/) for any questions.
